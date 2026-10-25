@@ -1,0 +1,9 @@
+export { default as Nav } from './Nav';
+export { default as Hero } from './Hero';
+export { default as Problem } from './Problem';
+export { default as HowItWorks } from './HowItWorks';
+export { default as Demo } from './Demo';
+export { default as Results } from './Results';
+export { default as TechStack } from './TechStack';
+export { default as Limitations } from './Limitations';
+export { default as Footer } from './Footer';
